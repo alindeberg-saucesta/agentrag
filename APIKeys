@@ -1,0 +1,3 @@
+from getpass import getpass
+OPENAI_KEY = getpass('Enter Open AI API Key: ')
+TAVILY_API_KEY = getpass('Enter Tavily Search API Key: ')
